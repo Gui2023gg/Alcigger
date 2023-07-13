@@ -1,0 +1,301 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-family: inherit;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.sapatoM {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 35px;
+  color: #555;
+}
+
+.shoes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shoe {
+  width: 300px;
+  margin: 18px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-decoration: none;
+}
+
+.shoe1 {
+  width: 300px;
+  margin: 18px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-decoration: none;
+}
+
+.shoe img {
+  max-width: 300px;
+  max-height: 400px;
+  width: auto;
+  height: auto;
+}
+
+.shoe1 img {
+  max-width: 300px;
+  max-height: 400px;
+  width: auto;
+  height: auto;
+}
+
+.inferior {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.home {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.home-titulo {
+  margin-top: 40px;
+}
+
+.home-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+#home-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+#home-button1 {
+  display: inline-block;
+  padding: 14px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+#titledosite {
+  margin-bottom: 0.5rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 599;
+  line-height: 1.2;
+  font-size: 2.5rem;
+}
+
+#barradenav {
+  font-family: inherit;
+}
+
+.home-button:hover {
+  background-color: #555;
+}
+
+#home-button:hover {
+  background-color: #555;
+}
+
+#home-button1:hover {
+  background-color: #555;
+}
+
+.promocao {
+    text-decoration: line-through;
+    color: red;
+}
+
+.margin-body {
+    margin-top: 20px;
+    margin-bottom: 4%;
+    margin-left: 2%;
+}
+
+.footer-home1{
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.tenis {
+  text-decoration: none;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.carousel-tamanho{
+  margin-top: 60px;
+  width: 900px;
+  margin-left: 450px;
+  border: 2px solid #000000;
+}
+
+.algunsdenossosprodutos {
+  margin-top: 100px;
+}
+
+.algunsprodutos1 {
+  margin-left: 238px;
+  margin-top: 60px;
+  border: 1px solid black;
+  width: 300px;
+}
+
+.algunsprodutos2 {
+  margin-left: 588px;
+  margin-top: -248px;
+  border: 1px solid black;
+  width: 300px;
+}
+
+.algunsprodutos3 {
+  margin-left: 938px;
+  margin-top: -248px;
+  border: 1px solid black;
+  width: 300px;
+}
+
+.algunsprodutos4 {
+  margin-left: 1288px;
+  margin-top: -248px;
+  border: 1px solid black;
+  width: 300px;
+  padding: 14px;
+}
+
+.algunsprodutos5 {
+  margin-left: 400px;
+  margin-top: 25px;
+  border: 1px solid black;
+  width: 300px;
+}
+
+.algunsprodutos6 {
+  margin-left: 754px;   
+  margin-top: -248px;
+  border: 1px solid black;
+  width: 300px;
+}
+
+.algunsprodutos7 {
+  margin-left: 1108px;
+  margin-top: -248px;
+  border: 1px solid black;
+  width: 300px;
+}
+
+.shoe1home {
+  width: 300px;
+}
+
+.shoe2home {
+  width: 300px;
+}
+
+.sobrehome {
+  margin-top: 130px;
+  text-align: center;
+}
+
+.linha1item1 {
+  margin-top: 50px;
+  margin-left: 280px;
+}
+
+.linha1item2 {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.linha2item1 {
+  margin-top: 30px;
+  margin-left: 280px;
+}
+
+.linha2item2 {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.linha3item1 {
+  margin-top: 30px;
+  margin-left: 280px;
+}
+
+.linha3item2 {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.linha4item1 {
+  margin-top: 30px;
+  margin-left: 280px;
+}
+
+.linha4item2 {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.depoisdeletar {
+  margin-top: 70px;
+  width: 600px;
+  margin-left: 670px;
+}
+
+#bottunmasculino {
+  width: 25px;
+  height: 25px;
+  margin-left: 180px;
+  background-color: rgb(195, 245, 104);
+}
